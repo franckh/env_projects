@@ -1,0 +1,19 @@
+# Format
+# - les lignes qui commencent par # ne comptent pas
+# - type
+#    M: motivation
+# - id
+#    numéro unique pour 
+# - texte
+# 
+M|001|ma connaissance des systèmes informatiques, du réseau et des problématiques métier d'un opérateur Mobile et d'un MVNO;
+M|002|ma connaissance du marché mobile acquise chez SFR au contact des équipes Marketing et Produit chez SFR ;
+M|003|mon expérience de manager acquise en gérant des équipes dédiées très opérationnelles (par exemple, équipe gérée en mode "TaskForce") ou en dirigeant des équipes projet transverses regroupant des interlocuteurs techniques et des interlocuteurs métiers.
+M|004|mon expérience en gestion de projets et dans la mise en oeuvre de solutions industrielles requierant la mobilisation d'une organisation sur une période longue;
+M|005|ma passion pour le développement logiciel que j'ai notamment re-pratiqué en 2012 pour améliorer les résultats de  mon équipe ;
+M|006|mon expérience dans la réalisation de tests et dans le contrôle de bout en bout des solutions, ce qui constitue une part importante de mon poste actuel chez SFR;
+M|007|ma pratique de l'intégration de sytèmes acquise en SSII;
+M|008|ma connaissance des systèmes informatiques, de la MOA, et des problématiques métier comme par exemple celles liés au CRM, à la facturation, aux moyens de paiement ;
+M|009|ma capacité à dialoguer avec des utilisateurs et à les accompagner lors de changements ;
+M|010|mon savoir-faire en gestion de projets et dans le pilotage de programme qui m'a permis de mettre en oeuvre de solutions industrielles requierant la mobilisation d'une organisation sur une période longue;
+M|011|mes qualités en matière de communication écrite et orale qui m'ont permis par exemple d'avoir des relations constructives avec les équipes Marketing et Produit chez SFR et avec les utilisateurs métiers ;
